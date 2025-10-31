@@ -5,8 +5,6 @@ Atuo como analista de cibersegurança, com foco em consultoria em segurança e a
 Trabalho para aumentar o nível de maturidade em segurança cibernética nos ambientes em que atuo, sempre preservando a integridade e a continuidade dos negócios.
 
 ## Interesses Principais
-- Desenvolvimento;
-- DevOps;
 - DevSecOps;
 - EDR, XDR, Cibersegurança;
 - Empreendedorismo;
